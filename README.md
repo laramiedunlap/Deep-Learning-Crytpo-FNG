@@ -51,10 +51,16 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+---
+> closing predictor
+---
 > Which model tracks the actual values better over time?
->
+---
+> closing predictor
+--- 
 > Which window size works best for the model?
+---
+1 Day window
 
 - - -
 
